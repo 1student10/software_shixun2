@@ -1,10 +1,10 @@
-/****************** 总容器 ******************/
+/*总容器*/
 .wrapper{
 	width: 100%;
 	height: 100%;
 }
 
-/****************** header部分 ******************/
+/*header部分*/
 .wrapper header{
 	width: 100%;
 	height: 12vw;
@@ -22,7 +22,7 @@
 	align-items: center;
 }
 
-/****************** 历史订单列表部分 ******************/
+/*历史订单列表部分*/
 .wrapper h3{
 	margin-top: 12vw;
 	box-sizing: border-box;
@@ -73,7 +73,8 @@
 	justify-content: space-between;
 	align-items: center;
 }
-/****************** 底部菜单部分 ******************/
+
+/*底部菜单部分*/
 .wrapper .footer{
 	width: 100%;
 	height: 14vw;
